@@ -1,0 +1,63 @@
+
+.red-color{
+    color:green;
+}
+body{
+     font-family: sans-serif;
+     background-color:rgb(121, 27, 145);
+     line-height: 26px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.side-img{
+    width: 60%;
+    padding-left: 20%;
+    padding-top: 6%;}
+.primary-btn{
+    color: rgb(129, 0, 0);
+    background-color: yellow;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration:none;
+}
+h1{
+    font-size: 2em;
+    color: royalblue;
+
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.container2{
+    padding-left: 5%;
+}
+p{
+    color: black;
+    
+}
+h3{
+    color: red;
+}
+.side-things{
+    float: left;
+}
+.right-side{
+    float: right;
+}
+.side-img2{
+    height: 8cm;
+    
+}
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(9, 20, 85, 0.699);
+}
